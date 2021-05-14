@@ -1,5 +1,5 @@
 # Python-Utility-Scripts
-Collection of python scripts for general utility use\
+Collection of python scripts for general utility use
 
 ## TODO
     - [ ] Implement __main__ functions in files to enable command line running.
