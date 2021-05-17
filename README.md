@@ -8,6 +8,6 @@ Python utility for basic caesar cipher use, including encrypting, decrypting and
 Script that uses PIL to compile folders of images into single PDFs.
 
 ## TODO
-    - [ ] Implement __main__ functions in files to enable command line running.
-    - [ ] Increase general readability in imagestopdf.py
-    - [ ] Add more customisability to imagestopdf.py
+ - [ ] Implement __main__ functions in files to enable command line running.
+ - [ ] Increase general readability in imagestopdf.py
+ - [ ] Add more customisability to imagestopdf.py
